@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "570921785175",
+    "project_id": "firebase-react-native-push"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570921785175:android:8c931d1168486d2c",
+        "android_client_info": {
+          "package_name": "com.differential.onesinglepush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570921785175-at1dlg34pjru3bve77dp3thblejnv1qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCux676lNI-_J4Txx8tafvlkpPDZYakno4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
